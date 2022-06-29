@@ -3,7 +3,7 @@ COLOUR1=#011640
 COLOUR2=#F2A766
 COLOUR3=#011640
 -->
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=github.epicfisher.epicfisher"> 
+<!--<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=github.epicfisher.epicfisher">-->
 
 <sub><b><span style="color:grey" align="left">(Image Generated with <a href="https://huggingface.co/spaces/dalle-mini/dalle-mini"> DALL-E mini</a>)</span></b></sub>
 

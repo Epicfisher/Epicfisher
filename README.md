@@ -1,4 +1,12 @@
+<!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=github.epicfisher.epicfisher"> -->
+
 ## Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
+
+<center>
+    <a href="https://www.youtube.com/channel/UCihGGUdixboqp1aHNP9aEcw"><img alt="Youtube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
+    <a href="https://twitter.com/SinfulParasitic"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+    <a href="mailto:theprogrammerdan@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</center>
 
 <!--
 <p align="left">

@@ -11,34 +11,34 @@
 <details open>
     <summary><b>Independant Projects</b></summary>
     <p>
-        <a href="https://github.com/Epicfisher/TouhouDiscordBot"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=TouhouDiscordBot&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"></a>
-        <a href="https://github.com/Epicfisher/touhou-wiki-arrange-parser"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=touhou-wiki-arrange-parser&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"></a>
-        <a href="https://github.com/Epicfisher/touhoudex-parser"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=touhoudex-parser&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"></a>
-        <a href="https://github.com/Epicfisher/kobold-api"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=kobold-api&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"></a>
+        <a href="https://github.com/Epicfisher/TouhouDiscordBot"><img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=TouhouDiscordBot&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"></a>
+        <a href="https://github.com/Epicfisher/touhou-wiki-arrange-parser"><img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=touhou-wiki-arrange-parser&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"></a>
+        <a href="https://github.com/Epicfisher/touhoudex-parser"><img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=touhoudex-parser&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"></a>
+        <a href="https://github.com/Epicfisher/kobold-api"><img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=kobold-api&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"></a>
     </p>
 </details>
 
 <details open>
     <summary><b>Forked Projects</b></summary>
     <p>
-        <a href="https://github.com/Epicfisher/heroku-minecraft-server"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=heroku-minecraft-server&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"></a>
-        <a href="https://github.com/Epicfisher/radegast-command-line"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=radegast-command-line&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"></a>
-        <a href="https://github.com/Epicfisher/radegast-command-line"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=reddit-rss-bot&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"></a>
+        <a href="https://github.com/Epicfisher/heroku-minecraft-server"><img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=heroku-minecraft-server&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"></a>
+        <a href="https://github.com/Epicfisher/radegast-command-line"><img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=radegast-command-line&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"></a>
+        <a href="https://github.com/Epicfisher/radegast-command-line"><img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=reddit-rss-bot&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"></a>
     </p>
 </details>
 
 <details>
     <summary><b>Heroku Buildpacks</b></summary>
     <p>
-        <a href="https://github.com/Epicfisher/heroku-buildpack-mono-6.12.0.122"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=heroku-buildpack-mono-6.12.0.122&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"></a>
-        <a href="https://github.com/Epicfisher/heroku-buildpack-libopus-latest"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=heroku-buildpack-libopus-latest&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"></a>
+        <a href="https://github.com/Epicfisher/heroku-buildpack-mono-6.12.0.122"><img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=heroku-buildpack-mono-6.12.0.122&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"></a>
+        <a href="https://github.com/Epicfisher/heroku-buildpack-libopus-latest"><img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=heroku-buildpack-libopus-latest&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"></a>
     </p>
 </details>
 
 <details>
     <summary><b>Game Modding</b></summary>
     <p>
-        <a href="https://github.com/Epicfisher/x8-buildsounds"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=x8-buildsounds&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"></a>
+        <a href="https://github.com/Epicfisher/x8-buildsounds"><img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=x8-buildsounds&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"></a>
     </p>
 </details>
 

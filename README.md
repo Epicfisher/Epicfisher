@@ -93,6 +93,13 @@ Welcome!-->
 | **Software/Tools:** | <a href="https://github.com/search?q=user%3AEpicfisher+fork%3Atrue+Audio"><img alt="Audacity" src="https://img.shields.io/badge/-Audacity-0000CC?logo=audacity&logoColor=white"></a> <a href="https://github.com/Epicfisher"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a> <a href="https://github.com/Epicfisher"><img alt="Github" src="https://img.shields.io/badge/Github-%23121011.svg?logo=github&logoColor=white"></a> |
 <sub>(Click on an Icon to view Specific Projects)</sub>
 
+<details> <summary>Miscellaneous things that I also use/code with:</summary>
+    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
+    <a href="#"><img alt="Linux Mint" src="https://img.shields.io/badge/Linux%20Mint-87CF3E.svg?logo=Linux%20Mint&logoColor=white"></a>
+    <a href="#"><img alt="Vim" src="https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+</details>
+
 <sub>💾EOF</sub>
 
 <!--

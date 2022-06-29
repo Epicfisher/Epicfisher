@@ -67,7 +67,7 @@
     <a href="https://github.com/search?q=user%3AEpicfisher+language%3Apython+fork%3Atrue"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
     |
 <br/>
-    | Cloud Hosting:
+    | Cloud Hosting Services:
     <a href="https://github.com/search?q=user%3AEpicfisher+fork%3Atrue+Heroku"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
     |
 <br/>

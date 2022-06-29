@@ -8,7 +8,7 @@ COLOUR3=#011640
 <sub><b><span style="color:grey" align="left">(Image Generated with <a href="https://huggingface.co/spaces/dalle-mini/dalle-mini"> DALL-E mini</a>)</span></b></sub>
 
 <!-- <img align="left" src="https://i.imgur.com/bLOw1OJ.jpg"/>-->
-<img src="https://i.imgur.com/aPRAIY6.jpg"/>
+<img src="https://i.imgur.com/3P68BF4.jpg"/>
 <!--<img src="https://i.imgur.com/56EaJ7I.jpg"/>-->
 
 <p align="center">

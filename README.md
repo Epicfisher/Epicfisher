@@ -1,5 +1,48 @@
 ## Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 
+<!--
+<p align="left">
+  <a href="https://github.com/Epicfisher/kobold-api"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=epicfisher&repo=kobold-api&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a href="https://github.com/Epicfisher/kobold-api"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=epicfisher&repo=kobold-api&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&border_radius=5"></a>
+  <a href="https://github.com/Epicfisher/kobold-api"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=epicfisher&repo=kobold-api&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&border_radius=5"></a>
+</p>
+-->
+
+<details open>
+    <summary><b>Independant Projects</b></summary>
+    <p>
+        <a href="https://github.com/Epicfisher/TouhouDiscordBot"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=TouhouDiscordBot&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"></a>
+        <a href="https://github.com/Epicfisher/touhou-wiki-arrange-parser"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=touhou-wiki-arrange-parser&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"></a>
+        <a href="https://github.com/Epicfisher/touhoudex-parser"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=touhoudex-parser&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"></a>
+        <a href="https://github.com/Epicfisher/kobold-api"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=kobold-api&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"></a>
+    </p>
+</details>
+
+<details open>
+    <summary><b>Forked Projects</b></summary>
+    <p>
+        <a href="https://github.com/Epicfisher/heroku-minecraft-server"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=heroku-minecraft-server&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"></a>
+        <a href="https://github.com/Epicfisher/radegast-command-line"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=radegast-command-line&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"></a>
+        <a href="https://github.com/Epicfisher/radegast-command-line"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=reddit-rss-bot&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"></a>
+    </p>
+</details>
+
+<details>
+    <summary><b>Heroku Buildpacks</b></summary>
+    <p>
+        <a href="https://github.com/Epicfisher/heroku-buildpack-mono-6.12.0.122"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=heroku-buildpack-mono-6.12.0.122&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"></a>
+        <a href="https://github.com/Epicfisher/heroku-buildpack-libopus-latest"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=heroku-buildpack-libopus-latest&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"></a>
+    </p>
+</details>
+
+<details>
+    <summary><b>Game Modding</b></summary>
+    <p>
+        <a href="https://github.com/Epicfisher/x8-buildsounds"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=x8-buildsounds&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"></a>
+    </p>
+</details>
+
+<!--
 ### Independant Projects
 - Touhou Discord Bot
 - Touhoudex Parser (Provides Trading Card Functionality to my Touhou Discord Bot)
@@ -14,8 +57,9 @@
 - Libopus
 ### Game Modding
 - x8 Buildsounds
+-->
 
-<p>
+<p align="left">
     <h6>
     | Programming/Scripting Languages:
     <a href="https://github.com/search?q=user%3AEpicfisher+language%3Abash+fork%3Atrue"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>

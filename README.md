@@ -22,17 +22,17 @@
     <a href="https://github.com/search?q=user%3AEpicfisher+language%3Acsharp+fork%3Atrue"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3AEpicfisher+language%3Apython+fork%3Atrue"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
     |
-</p>
+<br/>
     | Cloud Hosting:
     <a href="https://github.com/search?q=user%3AEpicfisher+fork%3Atrue+Heroku"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
     |
-</p>
+<br/>
     | Software/Tools:
     <a href="https://github.com/search?q=user%3AEpicfisher+fork%3Atrue+Audio"><img alt="Audacity" src="https://img.shields.io/badge/-Audacity-0000CC?logo=audacity&logoColor=white"></a>
     <a href="https://github.com/Epicfisher"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
     <a href="https://github.com/Epicfisher"><img alt="Github" src="https://img.shields.io/badge/Github-%23121011.svg?logo=github&logoColor=white"></a>
     |
-</p>
+<br/>
     | Misc:
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
     <a href="#"><img alt="Linux Mint" src="https://img.shields.io/badge/Linux%20Mint-87CF3E.svg?logo=Linux%20Mint&logoColor=white"></a>

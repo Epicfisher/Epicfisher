@@ -1,7 +1,7 @@
-<!-->
+<!--
 COLOUR1=#011640
 COLOUR2=#F2A766
-COLOUR3=#400101
+COLOUR3=#011640
 -->
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=github.epicfisher.epicfisher"> 
 
@@ -24,42 +24,42 @@ Welcome!-->
 <!--
 <p align="left">
   <a href="https://github.com/Epicfisher/kobold-api"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=epicfisher&repo=kobold-api&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a href="https://github.com/Epicfisher/kobold-api"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=epicfisher&repo=kobold-api&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&border_radius=5"></a>
-  <a href="https://github.com/Epicfisher/kobold-api"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=epicfisher&repo=kobold-api&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&border_radius=5"></a>
+  <a href="https://github.com/Epicfisher/kobold-api"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=epicfisher&repo=kobold-api&theme=react&bg_color=011640&title_color=F2A766&icon_color=F2CC85&hide_border=true&border_radius=5"></a>
+  <a href="https://github.com/Epicfisher/kobold-api"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=epicfisher&repo=kobold-api&theme=react&bg_color=011640&title_color=F2A766&icon_color=F2CC85&hide_border=true&border_radius=5"></a>
 </p>
 -->
 
 <details open>
     <summary><b>📌 Independent Projects</b></summary>
     <p>
-        <a href="https://github.com/Epicfisher/TouhouDiscordBot"><img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=TouhouDiscordBot&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"></a>
-        <a href="https://github.com/Epicfisher/touhou-wiki-arrange-parser"><img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=touhou-wiki-arrange-parser&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"></a>
-        <a href="https://github.com/Epicfisher/touhoudex-parser"><img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=touhoudex-parser&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"></a>
-        <a href="https://github.com/Epicfisher/kobold-api"><img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=kobold-api&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"></a>
+        <a href="https://github.com/Epicfisher/TouhouDiscordBot"><img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=TouhouDiscordBot&theme=react&bg_color=011640&title_color=F2A766&icon_color=F2CC85&hide_border=true&show_icons=true"></a>
+        <a href="https://github.com/Epicfisher/touhou-wiki-arrange-parser"><img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=touhou-wiki-arrange-parser&theme=react&bg_color=011640&title_color=F2A766&icon_color=F2CC85&hide_border=true&show_icons=true"></a>
+        <a href="https://github.com/Epicfisher/touhoudex-parser"><img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=touhoudex-parser&theme=react&bg_color=011640&title_color=F2A766&icon_color=F2CC85&hide_border=true&show_icons=true"></a>
+        <a href="https://github.com/Epicfisher/kobold-api"><img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=kobold-api&theme=react&bg_color=011640&title_color=F2A766&icon_color=F2CC85&hide_border=true&show_icons=true"></a>
     </p>
 </details>
 
 <details open>
     <summary><b>📌 Forked Projects</b></summary>
     <p>
-        <a href="https://github.com/Epicfisher/heroku-minecraft-server"><img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=heroku-minecraft-server&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"></a>
-        <a href="https://github.com/Epicfisher/radegast-command-line"><img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=radegast-command-line&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"></a>
-        <a href="https://github.com/Epicfisher/radegast-command-line"><img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=reddit-rss-bot&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"></a>
+        <a href="https://github.com/Epicfisher/heroku-minecraft-server"><img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=heroku-minecraft-server&theme=react&bg_color=011640&title_color=F2A766&icon_color=F2CC85&hide_border=true&show_icons=true"></a>
+        <a href="https://github.com/Epicfisher/radegast-command-line"><img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=radegast-command-line&theme=react&bg_color=011640&title_color=F2A766&icon_color=F2CC85&hide_border=true&show_icons=true"></a>
+        <a href="https://github.com/Epicfisher/radegast-command-line"><img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=reddit-rss-bot&theme=react&bg_color=011640&title_color=F2A766&icon_color=F2CC85&hide_border=true&show_icons=true"></a>
     </p>
 </details>
 
 <details>
     <summary><b>Heroku Buildpacks</b></summary>
     <p>
-        <a href="https://github.com/Epicfisher/heroku-buildpack-mono-6.12.0.122"><img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=heroku-buildpack-mono-6.12.0.122&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"></a>
-        <a href="https://github.com/Epicfisher/heroku-buildpack-libopus-latest"><img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=heroku-buildpack-libopus-latest&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"></a>
+        <a href="https://github.com/Epicfisher/heroku-buildpack-mono-6.12.0.122"><img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=heroku-buildpack-mono-6.12.0.122&theme=react&bg_color=011640&title_color=F2A766&icon_color=F2CC85&hide_border=true&show_icons=true"></a>
+        <a href="https://github.com/Epicfisher/heroku-buildpack-libopus-latest"><img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=heroku-buildpack-libopus-latest&theme=react&bg_color=011640&title_color=F2A766&icon_color=F2CC85&hide_border=true&show_icons=true"></a>
     </p>
 </details>
 
 <details>
     <summary><b>Game Modding</b></summary>
     <p>
-        <a href="https://github.com/Epicfisher/x8-buildsounds"><img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=x8-buildsounds&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"></a>
+        <a href="https://github.com/Epicfisher/x8-buildsounds"><img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=x8-buildsounds&theme=react&bg_color=011640&title_color=F2A766&icon_color=F2CC85&hide_border=true&show_icons=true"></a>
     </p>
 </details>
 
@@ -101,12 +101,10 @@ Welcome!-->
 </p>
 <p>
     <details> <summary>Miscellaneous things that I also use/code with:</summary>
-    |
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
     <a href="#"><img alt="Linux Mint" src="https://img.shields.io/badge/Linux%20Mint-87CF3E.svg?logo=Linux%20Mint&logoColor=white"></a>
     <a href="#"><img alt="Vim" src="https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-    |
     </details>
     </h6>
 </p>

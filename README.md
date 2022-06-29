@@ -64,9 +64,9 @@ Welcome!-->
     </p>
 </details>
 
-<h4 align="center">
+<h3 align="center">
   <a href="https://github.com/Epicfisher?tab=repositories" title="Show Repositories">🔎 Show All Repositories 🔍</a>
-</h4>
+</h3>
 
 <!--
 ### Independant Projects
@@ -92,6 +92,8 @@ Welcome!-->
 | **Cloud Hosting Services:** | <a href="https://github.com/search?q=user%3AEpicfisher+fork%3Atrue+Heroku"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a> |
 | **Software/Tools:** | <a href="https://github.com/search?q=user%3AEpicfisher+fork%3Atrue+Audio"><img alt="Audacity" src="https://img.shields.io/badge/-Audacity-0000CC?logo=audacity&logoColor=white"></a> <a href="https://github.com/Epicfisher"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a> <a href="https://github.com/Epicfisher"><img alt="Github" src="https://img.shields.io/badge/Github-%23121011.svg?logo=github&logoColor=white"></a> |
 <sub>(Click on an Icon to view Specific Projects)</sub>
+
+</br>
 
 <details> <summary>Miscellaneous things that I also use/code with:</summary>
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>

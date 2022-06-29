@@ -1,12 +1,25 @@
-<!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=github.epicfisher.epicfisher"> -->
+<!-->
+COLOUR1=#011640
+COLOUR2=#F2A766
+COLOUR3=#400101
+-->
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=github.epicfisher.epicfisher"> 
 
-## Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
+<sub><b><span style="color:grey" align="left">(Image Generated with <a href="https://huggingface.co/spaces/dalle-mini/dalle-mini"> DALL-E mini</a>)</span></b></sub>
 
-<h5 align="center">
+<!-- <img align="left" src="https://i.imgur.com/bLOw1OJ.jpg"/>-->
+<img src="https://i.imgur.com/aPRAIY6.jpg"/>
+<!--<img src="https://i.imgur.com/56EaJ7I.jpg"/>-->
+
+<p align="center">
     <a href="https://www.youtube.com/channel/UCihGGUdixboqp1aHNP9aEcw"><img alt="Youtube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
     <a href="https://twitter.com/SinfulParasitic"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
     <a href="mailto:theprogrammerdan@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</h5>
+</p>
+
+<!--## Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
+
+Welcome!-->
 
 <!--
 <p align="left">
@@ -17,7 +30,7 @@
 -->
 
 <details open>
-    <summary><b>Independant Projects</b></summary>
+    <summary><b>📌 Independent Projects</b></summary>
     <p>
         <a href="https://github.com/Epicfisher/TouhouDiscordBot"><img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=TouhouDiscordBot&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"></a>
         <a href="https://github.com/Epicfisher/touhou-wiki-arrange-parser"><img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=touhou-wiki-arrange-parser&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"></a>
@@ -27,7 +40,7 @@
 </details>
 
 <details open>
-    <summary><b>Forked Projects</b></summary>
+    <summary><b>📌 Forked Projects</b></summary>
     <p>
         <a href="https://github.com/Epicfisher/heroku-minecraft-server"><img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=heroku-minecraft-server&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"></a>
         <a href="https://github.com/Epicfisher/radegast-command-line"><img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=radegast-command-line&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"></a>
@@ -85,12 +98,16 @@
     <a href="https://github.com/Epicfisher"><img alt="Github" src="https://img.shields.io/badge/Github-%23121011.svg?logo=github&logoColor=white"></a>
     |
 <br/>
-    | Misc:
+</p>
+<p>
+    <details> <summary>Miscellaneous things that I also use/code with:</summary>
+    |
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
     <a href="#"><img alt="Linux Mint" src="https://img.shields.io/badge/Linux%20Mint-87CF3E.svg?logo=Linux%20Mint&logoColor=white"></a>
     <a href="#"><img alt="Vim" src="https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
     |
+    </details>
     </h6>
 </p>
 

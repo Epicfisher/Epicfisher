@@ -21,7 +21,7 @@
     </h6>
 </p>
 
-<!-->
+<!--
 ## Things I code with:
 ### Programming/Scripting Languages
 <p>

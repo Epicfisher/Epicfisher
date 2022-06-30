@@ -36,9 +36,9 @@ My Github houses <a href="https://github.com/Epicfisher?tab=repositories">all of
 
 If you want to get in contact, feel free to <a href="mailto:theprogrammerdan@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> me! I'm also on <a href="https://www.youtube.com/channel/UCihGGUdixboqp1aHNP9aEcw"><img alt="Youtube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>, <a href="https://twitter.com/SinfulParasitic"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a> and <a href="https://open.spotify.com/user/jbzz3w1vxg4j6k2gnznnf2uai?si=82de106c2829421d"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"></a>.
 
-> Image Generated with <a href="https://huggingface.co/spaces/dalle-mini/dalle-mini"> DALL-E mini</a>
+> (Image Generated with <a href="https://huggingface.co/spaces/dalle-mini/dalle-mini"> DALL-E mini</a>)
 
-</br></br>
+</br>
 
 <!--
 <p align="center">

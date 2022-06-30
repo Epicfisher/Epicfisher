@@ -97,9 +97,9 @@ If you want to get in contact, feel free to <a href="mailto:theprogrammerdan@gma
     </p>
 </details>
 
-<h3 align="center">
-  <a href="https://github.com/Epicfisher?tab=repositories" title="Show All Repositories">🔎 Show All Repositories 🔍</a>
-</h3>
+<h2 align="center">
+  <a href="https://github.com/Epicfisher?tab=repositories" title="View All Repositories">🔎 View All Repositories 🔍</a>
+</h2>
 
 <!--
 ### Independant Projects

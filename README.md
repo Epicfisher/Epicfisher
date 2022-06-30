@@ -135,6 +135,7 @@ If you want to get in contact, feel free to <a href="mailto:theprogrammerdan@gma
 <details open>
     <summary><b>📌🧰 Cloud Hosting Services</b></summary>
     <p>
+        <a href="https://github.com/search?q=user%3AEpicfisher+fork%3Atrue+Github+Pages"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
         <a href="https://github.com/search?q=user%3AEpicfisher+fork%3Atrue+Heroku"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
     </p>
 </details>

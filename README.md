@@ -31,7 +31,7 @@ Welcome!-->
 -->
 
 <details open>
-    <summary><b>📌 Independent Projects</b></summary>
+    <summary><b>📌📕 Independent Projects</b></summary>
     <p>
         <a href="https://github.com/Epicfisher/TouhouDiscordBot"><img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=TouhouDiscordBot&theme=react&bg_color=011640&title_color=F2A766&icon_color=F2CC85&hide_border=true&show_icons=true"></a>
         <a href="https://github.com/Epicfisher/touhou-wiki-arrange-parser"><img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=touhou-wiki-arrange-parser&theme=react&bg_color=011640&title_color=F2A766&icon_color=F2CC85&hide_border=true&show_icons=true"></a>
@@ -41,7 +41,7 @@ Welcome!-->
 </details>
 
 <details open>
-    <summary><b>📌 Forked Projects</b></summary>
+    <summary><b>📌📕 Forked Projects</b></summary>
     <p>
         <a href="https://github.com/Epicfisher/heroku-minecraft-server"><img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=heroku-minecraft-server&theme=react&bg_color=011640&title_color=F2A766&icon_color=F2CC85&hide_border=true&show_icons=true"></a>
         <a href="https://github.com/Epicfisher/radegast-command-line"><img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=radegast-command-line&theme=react&bg_color=011640&title_color=F2A766&icon_color=F2CC85&hide_border=true&show_icons=true"></a>
@@ -50,7 +50,7 @@ Welcome!-->
 </details>
 
 <details>
-    <summary><b>Heroku Buildpacks</b></summary>
+    <summary><b>📕 Heroku Buildpacks</b></summary>
     <p>
         <a href="https://github.com/Epicfisher/heroku-buildpack-mono-6.12.0.122"><img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=heroku-buildpack-mono-6.12.0.122&theme=react&bg_color=011640&title_color=F2A766&icon_color=F2CC85&hide_border=true&show_icons=true"></a>
         <a href="https://github.com/Epicfisher/heroku-buildpack-libopus-latest"><img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=heroku-buildpack-libopus-latest&theme=react&bg_color=011640&title_color=F2A766&icon_color=F2CC85&hide_border=true&show_icons=true"></a>
@@ -58,7 +58,7 @@ Welcome!-->
 </details>
 
 <details>
-    <summary><b>Game Modding</b></summary>
+    <summary><b>📕 Game Modding</b></summary>
     <p>
         <a href="https://github.com/Epicfisher/x8-buildsounds"><img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=x8-buildsounds&theme=react&bg_color=011640&title_color=F2A766&icon_color=F2CC85&hide_border=true&show_icons=true"></a>
     </p>
@@ -85,7 +85,8 @@ Welcome!-->
 - x8 Buildsounds
 -->
 
-## Things I code with
+<!--## Things I code with-->
+---
 
 | **Programming/Scripting Languages:** | <a href="https://github.com/search?q=user%3AEpicfisher+language%3Abash+fork%3Atrue"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a> <a href="https://github.com/search?q=user%3AEpicfisher+language%3Acsharp+fork%3Atrue"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a> <a href="https://github.com/search?q=user%3AEpicfisher+fork%3Atrue+Markdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a> <a href="https://github.com/search?q=user%3AEpicfisher+language%3Apython+fork%3Atrue"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a> |
 |:--|:--|

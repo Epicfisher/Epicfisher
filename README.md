@@ -25,7 +25,7 @@ COLOUR3=#011640
 <!--<img align="right" width="450" src="https://i.imgur.com/bLOw1OJ.jpg"/>-->
 <!--<img align="right" width="450" src="https://i.imgur.com/3P68BF4.jpg"/>-->
 <!--<img align="right" width="375" height="400" src="https://i.imgur.com/56EaJ7I.jpg"/>-->
-<img align="right" width="375" height="400" src="https://i.imgur.com/inq8C24.png"/>
+<img align="right" width="360" height="360" src="https://i.imgur.com/inq8C24.png"/>
 
 # Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
@@ -39,7 +39,7 @@ If you want to get in contact, feel free to <a href="mailto:theprogrammerdan@gma
 
 <!-- Image Generated with <a href="https://huggingface.co/spaces/dalle-mini/dalle-mini"> DALL-E mini</a>.-->
 
-</br><h6><p align="right"><sub>Image Generated with <a href="https://huggingface.co/spaces/dalle-mini/dalle-mini"> DALL-E mini</a>.</sub></p></h6>
+<h6><p align="right"><sub>Image Generated with <a href="https://huggingface.co/spaces/dalle-mini/dalle-mini"> DALL-E mini</a>.</sub></p></h6>
 
 </br>
 

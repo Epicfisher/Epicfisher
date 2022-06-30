@@ -32,7 +32,7 @@ COLOUR3=#011640
 
 ###### I like to ***write code.***
 
-Lately I've mainly been writing code in <a href="https://github.com/search?q=user%3AEpicfisher+language%3Apython+fork%3Atrue"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a> and <a href="https://github.com/search?q=user%3AEpicfisher+language%3Acsharp+fork%3Atrue"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>, but have dabbled with <a href="#"><img alt="C" src="https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white"></a>, <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a> and web development (<a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white"></a>, <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white"></a>, <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E"></a>). *See below for a full list of languages that I use.*
+Lately I've mainly been *writing code* in <a href="https://github.com/search?q=user%3AEpicfisher+language%3Apython+fork%3Atrue"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a> and <a href="https://github.com/search?q=user%3AEpicfisher+language%3Acsharp+fork%3Atrue"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>, but have dabbled with <a href="#"><img alt="C" src="https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white"></a>, <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a> and web development (<a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white"></a>, <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white"></a>, <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E"></a>). *See below for a full list of languages that I use.*
 
 <!--My Github houses <a href="https://github.com/Epicfisher?tab=repositories">all of my personal projects</a>, which have been organised into categories below. *See below for the full collection.*-->
 
@@ -126,21 +126,21 @@ If you want to get in contact, feel free to <a href="mailto:theprogrammerdan@gma
 </p>
 
 <details open>
-    <summary><b>📌👨‍💻 Programming/Scripting/Markup Languages</b></summary>
+    <summary><b>📌🧰 Programming/Scripting/Markup Languages</b></summary>
     <p>
         <a href="https://github.com/search?q=user%3AEpicfisher+language%3Abash+fork%3Atrue"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a> <a href="https://github.com/search?q=user%3AEpicfisher+language%3Acsharp+fork%3Atrue"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a> <a href="https://github.com/search?q=user%3AEpicfisher+fork%3Atrue+Markdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a> <a href="https://github.com/search?q=user%3AEpicfisher+language%3Apython+fork%3Atrue"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
     </p>
 </details>
 
 <details open>
-    <summary><b>📌👨‍💻 Cloud Hosting Services</b></summary>
+    <summary><b>📌🧰 Cloud Hosting Services</b></summary>
     <p>
         <a href="https://github.com/search?q=user%3AEpicfisher+fork%3Atrue+Heroku"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
     </p>
 </details>
 
 <details open>
-    <summary><b>📌👨‍💻 Software/Tools</b></summary>
+    <summary><b>📌🧰 Software/Tools</b></summary>
     <p>
         <a href="https://github.com/search?q=user%3AEpicfisher+fork%3Atrue+Audio"><img alt="Audacity" src="https://img.shields.io/badge/-Audacity-0000CC?logo=audacity&logoColor=white"></a> <a href="https://github.com/Epicfisher"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a> <a href="https://github.com/Epicfisher"><img alt="Github" src="https://img.shields.io/badge/Github-%23121011.svg?logo=github&logoColor=white"></a>
     </p>
@@ -149,7 +149,7 @@ If you want to get in contact, feel free to <a href="mailto:theprogrammerdan@gma
 <sub>*(^ Click on an Icon Above to view Specific Projects ^)*</sub></br></br>
 
 <details>
-    <summary><b>👨‍💻 Miscellaneous things that I also use/code with</b></summary>
+    <summary><b>🧰 Miscellaneous things that I also use/code with</b></summary>
     <p>
         <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
         <a href="#"><img alt="Linux Mint" src="https://img.shields.io/badge/Linux%20Mint-87CF3E.svg?logo=Linux%20Mint&logoColor=white"></a>

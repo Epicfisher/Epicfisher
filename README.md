@@ -97,9 +97,9 @@ If you want to get in contact, feel free to <a href="mailto:theprogrammerdan@gma
     </p>
 </details>
 
-<!--<h3 align="center">
-  <a href="https://github.com/Epicfisher?tab=repositories" title="Show Repositories">🔎 Show All Repositories 🔍</a>
-</h3>-->
+<h3 align="center">
+  <a href="https://github.com/Epicfisher?tab=repositories" title="Show All Repositories">🔎 Show All Repositories 🔍</a>
+</h3>
 
 <!--
 ### Independant Projects
@@ -119,7 +119,7 @@ If you want to get in contact, feel free to <a href="mailto:theprogrammerdan@gma
 -->
 
 <!--## Things I code with-->
----
+
 <p align="right">
 <h6><p align="right"><sub>Image Generated with <a href="https://huggingface.co/spaces/dalle-mini/dalle-mini"> DALL-E mini</a>.</sub></p></h6>
 <img align="right" width="360" height="360" src="https://i.imgur.com/3zlcO3d.png"/>
@@ -158,8 +158,6 @@ If you want to get in contact, feel free to <a href="mailto:theprogrammerdan@gma
         <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
     </p>
 </details>
-
-</br></br>
 
 <!--
 | **Programming/Scripting Languages:** | <a href="https://github.com/search?q=user%3AEpicfisher+language%3Abash+fork%3Atrue"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a> <a href="https://github.com/search?q=user%3AEpicfisher+language%3Acsharp+fork%3Atrue"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a> <a href="https://github.com/search?q=user%3AEpicfisher+fork%3Atrue+Markdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a> <a href="https://github.com/search?q=user%3AEpicfisher+language%3Apython+fork%3Atrue"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a> |

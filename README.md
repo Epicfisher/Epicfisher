@@ -36,7 +36,7 @@ Lately I've mainly been writing code in <a href="https://github.com/search?q=use
 
 <!--My Github houses <a href="https://github.com/Epicfisher?tab=repositories">all of my personal projects</a>, which have been organised into categories below. *See below for the full collection.*-->
 
-My GitHub houses all of my personal projects, which have been organised into categories below. *See below for the full collection.*
+My GitHub houses all of my personal projects, *which have been organised into categories below.*
 
 If you want to get in contact, feel free to <a href="mailto:theprogrammerdan@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> me! I'm also on <a href="https://www.youtube.com/channel/UCihGGUdixboqp1aHNP9aEcw"><img alt="Youtube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>, <a href="https://twitter.com/SinfulParasitic"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a> and <a href="https://open.spotify.com/user/jbzz3w1vxg4j6k2gnznnf2uai?si=82de106c2829421d"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"></a>.
 
@@ -44,7 +44,7 @@ If you want to get in contact, feel free to <a href="mailto:theprogrammerdan@gma
 
 <h6><p align="right"><sub>Image Generated with <a href="https://huggingface.co/spaces/dalle-mini/dalle-mini"> DALL-E mini</a>.</sub></p></h6>
 
-</br>
+---
 
 <!--
 <p align="center">
@@ -97,9 +97,11 @@ If you want to get in contact, feel free to <a href="mailto:theprogrammerdan@gma
     </p>
 </details>
 
+<!--
 <h3 align="center">
   <a href="https://github.com/Epicfisher?tab=repositories" title="View All Repositories">🔎 View All Repositories 🔍</a>
 </h3>
+-->
 
 <!--
 ### Independant Projects
@@ -118,11 +120,13 @@ If you want to get in contact, feel free to <a href="mailto:theprogrammerdan@gma
 - x8 Buildsounds
 -->
 
+---
+
 <!--## Things I code with-->
 
 <p align="right">
-<h6><p align="right"><sub>Image Generated with <a href="https://huggingface.co/spaces/dalle-mini/dalle-mini"> DALL-E mini</a>.</sub></p></h6>
-<img align="right" width="360" height="360" src="https://i.imgur.com/3zlcO3d.png"/>
+    <h6><p align="right"><sub>Image Generated with <a href="https://huggingface.co/spaces/dalle-mini/dalle-mini"> DALL-E mini</a>.</sub></p></h6>
+    <img align="right" width="360" height="360" src="https://i.imgur.com/3zlcO3d.png"/>
 </p>
 
 <details open>

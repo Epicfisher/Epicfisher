@@ -133,7 +133,11 @@ If you want to get in contact, feel free to <a href="mailto:theprogrammerdan@gma
 <details open>
     <summary><b>📌🧰 Programming/Scripting/Markup Languages</b></summary>
     <p>
-        <a href="https://github.com/search?q=user%3AEpicfisher+language%3Abash+fork%3Atrue"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a> <a href="https://github.com/search?q=user%3AEpicfisher+language%3Acsharp+fork%3Atrue"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a> <a href="https://github.com/search?q=user%3AEpicfisher+fork%3Atrue+Markdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a> <a href="https://github.com/search?q=user%3AEpicfisher+language%3Apython+fork%3Atrue"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+        <a href="https://gist.github.com/search?q=user%3AEpicfisher+language%3Aautohotkey+fork%3Atrue&ref=searchresults"><img alt="AutoHotkey" src="https://img.shields.io/badge/AutoHotkey-477831.svg?logo=autohotkey&logoColor=white"></a>
+        <a href="https://github.com/search?q=user%3AEpicfisher+language%3Abash+fork%3Atrue"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
+        <a href="https://github.com/search?q=user%3AEpicfisher+language%3Acsharp+fork%3Atrue"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
+        <a href="https://github.com/search?q=user%3AEpicfisher+fork%3Atrue+Markdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a>
+        <a href="https://github.com/search?q=user%3AEpicfisher+language%3Apython+fork%3Atrue"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
     </p>
 </details>
 
@@ -148,7 +152,9 @@ If you want to get in contact, feel free to <a href="mailto:theprogrammerdan@gma
 <details open>
     <summary><b>📌🧰 Software/Tools</b></summary>
     <p>
-        <a href="https://github.com/search?q=user%3AEpicfisher+fork%3Atrue+Audio"><img alt="Audacity" src="https://img.shields.io/badge/-Audacity-0000CC?logo=audacity&logoColor=white"></a> <a href="https://github.com/Epicfisher"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a> <a href="https://github.com/Epicfisher"><img alt="Github" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"></a>
+        <a href="https://github.com/search?q=user%3AEpicfisher+fork%3Atrue+Audio"><img alt="Audacity" src="https://img.shields.io/badge/-Audacity-0000CC?logo=audacity&logoColor=white"></a>
+        <a href="https://github.com/Epicfisher"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+        <a href="https://github.com/Epicfisher"><img alt="Github" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"></a>
     </p>
 </details>
 

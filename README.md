@@ -88,6 +88,7 @@ If you want to get in contact, feel free to <a href="mailto:theprogrammerdan@gma
     <p>
         <a href="https://github.com/Epicfisher/heroku-buildpack-mono-6.12.0.122"><img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=heroku-buildpack-mono-6.12.0.122&theme=react&bg_color=011640&title_color=F2A766&icon_color=F2CC85&hide_border=true&show_icons=true"></a>
         <a href="https://github.com/Epicfisher/heroku-buildpack-libopus-latest"><img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=heroku-buildpack-libopus-latest&theme=react&bg_color=011640&title_color=F2A766&icon_color=F2CC85&hide_border=true&show_icons=true"></a>
+        <a href="https://github.com/Epicfisher/heroku-buildpack-minecraft"><img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=heroku-buildpack-minecraft&theme=react&bg_color=011640&title_color=F2A766&icon_color=F2CC85&hide_border=true&show_icons=true"></a>
     </p>
 </details>
 
@@ -146,6 +147,7 @@ If you want to get in contact, feel free to <a href="mailto:theprogrammerdan@gma
     <p>
         <a href="https://github.com/search?q=user%3AEpicfisher+fork%3Atrue+Github+Pages"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
         <a href="https://github.com/search?q=user%3AEpicfisher+fork%3Atrue+Heroku"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
+        <a href="https://epicfisher.keybase.pub/"><img alt="Keybase" src="https://img.shields.io/badge/Keybase-33A0FF.svg?logo=keybase&logoColor=white"></a>
     </p>
 </details>
 

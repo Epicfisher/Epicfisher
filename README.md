@@ -79,7 +79,7 @@ If you want to get in contact, feel free to <a href="mailto:theprogrammerdan@gma
     <p>
         <a href="https://github.com/Epicfisher/heroku-minecraft-server"><img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=heroku-minecraft-server&theme=react&bg_color=011640&title_color=F2A766&icon_color=F2CC85&hide_border=true&show_icons=true"></a>
         <a href="https://github.com/Epicfisher/radegast-command-line"><img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=radegast-command-line&theme=react&bg_color=011640&title_color=F2A766&icon_color=F2CC85&hide_border=true&show_icons=true"></a>
-        <a href="https://github.com/Epicfisher/radegast-command-line"><img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=reddit-rss-bot&theme=react&bg_color=011640&title_color=F2A766&icon_color=F2CC85&hide_border=true&show_icons=true"></a>
+        <a href="https://github.com/Epicfisher/reddit-rss-bot"><img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=reddit-rss-bot&theme=react&bg_color=011640&title_color=F2A766&icon_color=F2CC85&hide_border=true&show_icons=true"></a>
     </p>
 </details>
 

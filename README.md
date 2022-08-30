@@ -72,17 +72,23 @@ If you want to get in contact, feel free to <a href="mailto:theprogrammerdan@gma
         <a href="https://github.com/Epicfisher/touhou-cafe-radio"><img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=touhou-cafe-radio&theme=react&bg_color=011640&title_color=F2A766&icon_color=F2CC85&hide_border=true&show_icons=true"></a>
         <a href="https://github.com/Epicfisher/nesfish"><img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=nesfish&theme=react&bg_color=011640&title_color=F2A766&icon_color=F2CC85&hide_border=true&show_icons=true"></a>
         <a href="https://github.com/Epicfisher/kobold-api"><img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=kobold-api&theme=react&bg_color=011640&title_color=F2A766&icon_color=F2CC85&hide_border=true&show_icons=true"></a>
-        <a href="https://github.com/Epicfisher/heroku-srb2kart-server"><img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=heroku-srb2kart-server&theme=react&bg_color=011640&title_color=F2A766&icon_color=F2CC85&hide_border=true&show_icons=true"></a>
     </p>
 </details>
 
 <details open>
     <summary><b>📌📕 Forked Projects</b></summary>
     <p>
-        <a href="https://github.com/Epicfisher/heroku-minecraft-server"><img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=heroku-minecraft-server&theme=react&bg_color=011640&title_color=F2A766&icon_color=F2CC85&hide_border=true&show_icons=true"></a>
-        <a href="https://github.com/Epicfisher/heroku-icecast2-server"><img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=heroku-icecast2-server&theme=react&bg_color=011640&title_color=F2A766&icon_color=F2CC85&hide_border=true&show_icons=true"></a>
         <a href="https://github.com/Epicfisher/radegast-command-line"><img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=radegast-command-line&theme=react&bg_color=011640&title_color=F2A766&icon_color=F2CC85&hide_border=true&show_icons=true"></a>
         <a href="https://github.com/Epicfisher/reddit-rss-bot"><img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=reddit-rss-bot&theme=react&bg_color=011640&title_color=F2A766&icon_color=F2CC85&hide_border=true&show_icons=true"></a>
+    </p>
+</details>
+
+<details open>
+    <summary><b>📌📕 Heroku Projects</b></summary>
+    <p>
+        <a href="https://github.com/Epicfisher/heroku-minecraft-server"><img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=heroku-minecraft-server&theme=react&bg_color=011640&title_color=F2A766&icon_color=F2CC85&hide_border=true&show_icons=true"></a>
+        <a href="https://github.com/Epicfisher/heroku-icecast2-server"><img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=heroku-icecast2-server&theme=react&bg_color=011640&title_color=F2A766&icon_color=F2CC85&hide_border=true&show_icons=true"></a>
+        <a href="https://github.com/Epicfisher/heroku-srb2kart-server"><img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=heroku-srb2kart-server&theme=react&bg_color=011640&title_color=F2A766&icon_color=F2CC85&hide_border=true&show_icons=true"></a>
     </p>
 </details>
 

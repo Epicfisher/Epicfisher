@@ -184,6 +184,13 @@ If you want to get in contact, feel free to <a href="mailto:theprogrammerdan@gma
     </p>
 </details>
 
+</br><details>
+    <summary><b>💻 GitHub Profile Stats</b></summary>
+        <a href="#"><img width="893" alt="Epicfisher's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Epicfisher&bg_color=011640&color=F2A766&line=F2CC85&point=FFFFFF&hide_border=true"/></a>
+        <a href="#"><img alt="Epicfisher's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Epicfisher&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=011640&title_color=F2A766&icon_color=F2CC85" height="192px"/></a><a href="#"><img alt="Epicfisher's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Epicfisher&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=011640&title_color=F2A766&icon_color=F2CC85&hide=Jupyter%20Notebook" height="192px"/></a>
+    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</details>
+
 <!--
 | **Programming/Scripting Languages:** | <a href="https://github.com/search?q=user%3AEpicfisher+language%3Abash+fork%3Atrue"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a> <a href="https://github.com/search?q=user%3AEpicfisher+language%3Acsharp+fork%3Atrue"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a> <a href="https://github.com/search?q=user%3AEpicfisher+fork%3Atrue+Markdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a> <a href="https://github.com/search?q=user%3AEpicfisher+language%3Apython+fork%3Atrue"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a> |
 |:--|:--|

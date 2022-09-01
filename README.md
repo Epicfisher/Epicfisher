@@ -193,7 +193,7 @@ If you want to get in contact, feel free to <a href="mailto:theprogrammerdan@gma
             <a href="#"><img height="180px" alt="Epicfisher's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Epicfisher&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=011640&title_color=F2A766&icon_color=F2CC85&hide=Jupyter%20Notebook"/></a>
         </div>
         </br>
-    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+    <b>Note:</b> My top languages is only a metric of the languages my public GitHub code consists of and doesn't reflect experience or skill level.
 </details>
 
 <!--

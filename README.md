@@ -192,7 +192,7 @@ If you want to get in contact, feel free to <a href="mailto:theprogrammerdan@gma
 <details>
 <summary><b>💻 GitHub Profile Stats</b></summary>
 </br>-->
-<a href="#"><img width="841" alt="Epicfisher's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Epicfisher&bg_color=011640&color=F2A766&line=F2CC85&point=FFFFFF&hide_border=true"/></a>
+<div align="left"><a href="#"><img width="841" alt="Epicfisher's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Epicfisher&bg_color=011640&color=F2A766&line=F2CC85&point=FFFFFF&hide_border=true"/></a></div>
 <!--<div style="display: flex; flex-direction: row;">-->
 <center><a href="#"><img height="180px" alt="Epicfisher's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Epicfisher&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=011640&title_color=F2A766&icon_color=F2CC85"/></a>
 <a href="#"><img height="180px" alt="Epicfisher's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Epicfisher&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=011640&title_color=F2A766&icon_color=F2CC85&hide=Jupyter%20Notebook"/></a></center>

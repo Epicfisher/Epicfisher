@@ -32,11 +32,11 @@ COLOUR3=#011640
 
 ###### I like to *write code.*
 
-Lately I've mainly been writing code in <a href="https://github.com/search?q=user%3AEpicfisher+language%3Apython+fork%3Atrue"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a> and <a href="https://github.com/search?q=user%3AEpicfisher+language%3Acsharp+fork%3Atrue"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>, but have dabbled with <a href="#"><img alt="C" src="https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white"></a>, <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++-9C033A.svg?logo=c%2B%2B&logoColor=white"></a> and web development (<a href="https://epicfisher.keybase.pub/"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white"></a>, <a href="https://epicfisher.keybase.pub/"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white"></a>, <a href="https://epicfisher.keybase.pub/"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E"></a>). *See below for a full list of languages that I use.*
+Lately I've mainly been writing code in <a href="https://github.com/search?q=user%3AEpicfisher+language%3Apython+fork%3Atrue"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a> and <a href="https://github.com/search?q=user%3AEpicfisher+language%3Acsharp+fork%3Atrue"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>, but have dabbled with <a href="#"><img alt="C" src="https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white"></a>, <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++-9C033A.svg?logo=c%2B%2B&logoColor=white"></a> and web development (<a href="https://epicfisher.keybase.pub/"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white"></a>, <a href="https://epicfisher.keybase.pub/"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white"></a>, <a href="https://epicfisher.keybase.pub/"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E"></a>). [*See below for a full list of languages that I use.*](#languages)
 
 <!--My Github houses <a href="https://github.com/Epicfisher?tab=repositories">all of my personal projects</a>, which have been organised into categories below. *See below for the full collection.*-->
 
-My GitHub houses all of my programming projects, *which have been organised into categories below.*
+My GitHub houses all of my [*programming projects, which have been organised into categories below.*](#projects) Below these are some [*statistics.*](#statistics)
 
 If you want to get in contact, feel free to <a href="mailto:theprogrammerdan@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> me! I'm also on <a href="https://www.youtube.com/channel/UCihGGUdixboqp1aHNP9aEcw"><img alt="Youtube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>, <a href="https://twitter.com/SinfulParasitic"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a> and <a href="https://open.spotify.com/user/jbzz3w1vxg4j6k2gnznnf2uai?si=82de106c2829421d"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"></a>.
 
@@ -62,6 +62,8 @@ If you want to get in contact, feel free to <a href="mailto:theprogrammerdan@gma
   <a href="https://github.com/Epicfisher/kobold-api"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=epicfisher&repo=kobold-api&theme=react&bg_color=011640&title_color=F2A766&icon_color=F2CC85&hide_border=true&border_radius=5"></a>
 </p>
 -->
+
+<div id="projects"></div>
 
 <details open>
     <summary><b>📌📕 Independent Projects</b></summary>
@@ -133,6 +135,8 @@ If you want to get in contact, feel free to <a href="mailto:theprogrammerdan@gma
 
 ---
 
+<div id="languages"></div>
+
 <!--## Things I code with-->
 
 <p align="right">
@@ -187,6 +191,8 @@ If you want to get in contact, feel free to <a href="mailto:theprogrammerdan@gma
 </br></br>
 
 ---
+
+<div id="statistics"></div>
 
 <!--</br>
 <details>

@@ -198,7 +198,7 @@ If you want to get in contact, feel free to <a href="mailto:theprogrammerdan@gma
 <a href="#"><img height="180px" alt="Epicfisher's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Epicfisher&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=011640&title_color=F2A766&icon_color=F2CC85&hide=Jupyter%20Notebook"/></a></center>
 <!--</div>-->
 <!--<a href="#"><img alt="Epicfisher's Last-Year Contributions" src="https://api.githubtrends.io/user/svg/Epicfisher/repos?time_range=one_year&bg_color=011640"/></a>-->
-<div align="center"><a href="#"><img height="180px" alt="Epicfisher's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Epicfisher&hide_border=true&background=011640&currStreakNum=F2A766&sideNums=F2A766&currStreakLabel=F2A766&sideLabels=F2CC85&dates=F2CC85"/></a></div>
+<div align="center"><a href="#"><img height="180px" alt="Epicfisher's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Epicfisher&hide_border=true&background=011640&currStreakNum=FFFFFF&sideNums=F2A766&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=F2CC85"/></a></div>
 
 <!--</br><b>Note:</b> My top languages are only a metric of the languages my public GitHub code consists of, it doesn't reflect experience or skill level.-->
 </br><b>Note:</b> My most used languages are only a metric of the languages my public code consists of, it doesn't reflect experience or skill level.

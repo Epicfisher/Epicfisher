@@ -32,13 +32,13 @@ COLOUR3=#011640
 
 ###### I like to *write code.*
 
-Lately I've mainly been writing code in <a href="https://github.com/search?q=user%3AEpicfisher+language%3Apython+fork%3Atrue"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a> and <a href="https://github.com/search?q=user%3AEpicfisher+language%3Acsharp+fork%3Atrue"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>, but have dabbled with <a href="#"><img alt="C" src="https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white"></a>, <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++-9C033A.svg?logo=c%2B%2B&logoColor=white"></a> and web development (<a href="https://epicfisher.keybase.pub/"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white"></a>, <a href="https://epicfisher.keybase.pub/"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white"></a>, <a href="https://epicfisher.keybase.pub/"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E"></a>). [*See below for a full list of languages that I use.*](#languages)
+Lately I've mainly been writing code in <a href="https://github.com/search?q=user%3AEpicfisher+language%3Apython+fork%3Atrue"><img alt="Python" title="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a> and <a href="https://github.com/search?q=user%3AEpicfisher+language%3Acsharp+fork%3Atrue"><img alt="C#" title="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>, but have dabbled with <a href="#"><img alt="C" title="C" src="https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white"></a>, <a href="#"><img alt="C++" title="C++" src="https://img.shields.io/badge/C++-9C033A.svg?logo=c%2B%2B&logoColor=white"></a> and web development (<a href="https://epicfisher.keybase.pub/"><img alt="HTML5" title="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white"></a>, <a href="https://epicfisher.keybase.pub/"><img alt="CSS3" title="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white"></a>, <a href="https://epicfisher.keybase.pub/"><img alt="JavaScript" title="JavaScript" src="https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E"></a>). [*See below for a full list of languages that I use.*](#languages)
 
 <!--My Github houses <a href="https://github.com/Epicfisher?tab=repositories">all of my personal projects</a>, which have been organised into categories below. *See below for the full collection.*-->
 
 My GitHub houses all of my [*programming projects, which have been organised into categories below.*](#projects) Below these are some [*statistics.*](#statistics)
 
-If you want to get in contact, feel free to <a href="mailto:theprogrammerdan@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> me! I'm also on <a href="https://www.youtube.com/channel/UCihGGUdixboqp1aHNP9aEcw"><img alt="Youtube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>, <a href="https://twitter.com/SinfulParasitic"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a> and <a href="https://open.spotify.com/user/jbzz3w1vxg4j6k2gnznnf2uai?si=82de106c2829421d"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"></a>.
+If you want to get in contact, feel free to <a href="mailto:theprogrammerdan@gmail.com"><img alt="Email" title="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> me! I'm also on <a href="https://www.youtube.com/channel/UCihGGUdixboqp1aHNP9aEcw"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>, <a href="https://twitter.com/SinfulParasitic"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a> and <a href="https://open.spotify.com/user/jbzz3w1vxg4j6k2gnznnf2uai?si=82de106c2829421d"><img alt="Spotify" title="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"></a>.
 
 <!-- Image Generated with <a href="https://huggingface.co/spaces/dalle-mini/dalle-mini"> DALL-E mini</a>.-->
 
@@ -147,33 +147,33 @@ If you want to get in contact, feel free to <a href="mailto:theprogrammerdan@gma
 <details open>
     <summary><b>📌🧰 Programming/Scripting/Markup Languages</b></summary>
     <p>
-        <a href="https://gist.github.com/search?q=user%3AEpicfisher+language%3Aautohotkey+fork%3Atrue&ref=searchresults"><img alt="AutoHotkey" src="https://img.shields.io/badge/AutoHotkey-477831.svg?logo=autohotkey&logoColor=white"></a>
-        <a href="https://github.com/search?q=user%3AEpicfisher+language%3Abash+fork%3Atrue"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
-        <a href="https://github.com/search?q=user%3AEpicfisher+language%3Acsharp+fork%3Atrue"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
-        <a href="https://epicfisher.keybase.pub/"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white"></a>
-        <a href="https://epicfisher.keybase.pub/"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white"></a>
-        <a href="https://epicfisher.keybase.pub/"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E"></a>
-        <a href="https://github.com/search?q=user%3AEpicfisher+fork%3Atrue+Markdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a>
-        <a href="https://github.com/search?q=user%3AEpicfisher+language%3Apython+fork%3Atrue"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+        <a href="https://gist.github.com/search?q=user%3AEpicfisher+language%3Aautohotkey+fork%3Atrue&ref=searchresults"><img alt="AutoHotkey" title="AutoHotkey" src="https://img.shields.io/badge/AutoHotkey-477831.svg?logo=autohotkey&logoColor=white"></a>
+        <a href="https://github.com/search?q=user%3AEpicfisher+language%3Abash+fork%3Atrue"><img alt="Bash" title="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
+        <a href="https://github.com/search?q=user%3AEpicfisher+language%3Acsharp+fork%3Atrue"><img alt="C#" title="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
+        <a href="https://epicfisher.keybase.pub/"><img alt="CSS3" title="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white"></a>
+        <a href="https://epicfisher.keybase.pub/"><img alt="HTML5" title="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white"></a>
+        <a href="https://epicfisher.keybase.pub/"><img alt="JavaScript" title="JavaScript" src="https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E"></a>
+        <a href="https://github.com/search?q=user%3AEpicfisher+fork%3Atrue+Markdown"><img alt="Markdown" title="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a>
+        <a href="https://github.com/search?q=user%3AEpicfisher+language%3Apython+fork%3Atrue"><img alt="Python" title="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
     </p>
 </details>
 
 <details open>
     <summary><b>📌🧰 Cloud Hosting Services</b></summary>
     <p>
-        <a href="https://github.com/search?q=user%3AEpicfisher+fork%3Atrue+Github+Pages"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
-        <a href="https://github.com/search?q=user%3AEpicfisher+fork%3Atrue+Heroku"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
-        <a href="https://epicfisher.keybase.pub/"><img alt="Keybase" src="https://img.shields.io/badge/Keybase-33A0FF.svg?logo=keybase&logoColor=white"></a>
-        <a href="https://replit.com/@Epicfisher"><img alt="Replit" src="https://img.shields.io/badge/Replit-0D101E.svg?logo=Replit&logoColor=white"></a>
+        <a href="https://github.com/search?q=user%3AEpicfisher+fork%3Atrue+Github+Pages"><img alt="GitHub Pages" title="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
+        <a href="https://github.com/search?q=user%3AEpicfisher+fork%3Atrue+Heroku"><img alt="Heroku" title="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
+        <a href="https://epicfisher.keybase.pub/"><img alt="Keybase" title="Keybase" src="https://img.shields.io/badge/Keybase-33A0FF.svg?logo=keybase&logoColor=white"></a>
+        <a href="https://replit.com/@Epicfisher"><img alt="Replit" title="Replit" src="https://img.shields.io/badge/Replit-0D101E.svg?logo=Replit&logoColor=white"></a>
     </p>
 </details>
 
 <details open>
     <summary><b>📌🧰 Software/Tools</b></summary>
     <p>
-        <a href="https://github.com/search?q=user%3AEpicfisher+fork%3Atrue+Audio"><img alt="Audacity" src="https://img.shields.io/badge/-Audacity-0000CC?logo=audacity&logoColor=white"></a>
-        <a href="https://github.com/Epicfisher"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-        <a href="https://github.com/Epicfisher"><img alt="Github" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"></a>
+        <a href="https://github.com/search?q=user%3AEpicfisher+fork%3Atrue+Audio"><img alt="Audacity" title="Audacity" src="https://img.shields.io/badge/-Audacity-0000CC?logo=audacity&logoColor=white"></a>
+        <a href="https://github.com/Epicfisher"><img alt="Git" title="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+        <a href="https://github.com/Epicfisher"><img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"></a>
     </p>
 </details>
 
@@ -182,10 +182,10 @@ If you want to get in contact, feel free to <a href="mailto:theprogrammerdan@gma
 <details>
     <summary><b>🧰 Miscellaneous things that I also use/code with</b></summary>
     <p>
-        <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
-        <a href="#"><img alt="Linux Mint" src="https://img.shields.io/badge/Linux%20Mint-87CF3E.svg?logo=Linux%20Mint&logoColor=white"></a>
-        <a href="#"><img alt="Vim" src="https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white"></a>
-        <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+        <a href="#"><img alt="Adobe" title="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
+        <a href="#"><img alt="Linux Mint" title="Linux Mint" src="https://img.shields.io/badge/Linux%20Mint-87CF3E.svg?logo=Linux%20Mint&logoColor=white"></a>
+        <a href="#"><img alt="Vim" title="Vim" src="https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white"></a>
+        <a href="#"><img alt="Visual Studio Code" title="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
     </p>
 </details>
 </br></br>

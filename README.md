@@ -155,6 +155,7 @@ If you want to get in contact, feel free to <a href="mailto:theprogrammerdan@gma
         <a href="https://epicfisher.keybase.pub/"><img alt="JavaScript" title="JavaScript" src="https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E"></a>
         <a href="https://github.com/search?q=user%3AEpicfisher+fork%3Atrue+Markdown"><img alt="Markdown" title="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a>
         <a href="https://github.com/search?q=user%3AEpicfisher+language%3Apython+fork%3Atrue"><img alt="Python" title="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+        <a href="https://scratch.mit.edu/users/Fightfight5/"><img alt="Scratch" title="Scratch" src="https://img.shields.io/badge/Scratch-4D97FF.svg?logo=scratch&logoColor=white"></a>
     </p>
 </details>
 

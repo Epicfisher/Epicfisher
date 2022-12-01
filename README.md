@@ -85,6 +85,14 @@ If you want to get in contact, feel free to <a href="mailto:theprogrammerdan@gma
     </p>
 </details>
 
+<!--<details open>
+    <summary><b>📌📕 Projects Contributed to</b></summary>
+    <p>
+        <a href="https://github.com/Epicfisher/radegast-command-line"><img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=radegast-command-line&theme=react&bg_color=011640&title_color=F2A766&icon_color=F2CC85&hide_border=true&show_icons=true"></a>
+        <a href="https://github.com/Epicfisher/reddit-rss-bot"><img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=reddit-rss-bot&theme=react&bg_color=011640&title_color=F2A766&icon_color=F2CC85&hide_border=true&show_icons=true"></a>
+    </p>
+</details>-->
+
 <details open>
     <summary><b>📌📕 Heroku Projects</b></summary>
     <p>
@@ -184,6 +192,7 @@ If you want to get in contact, feel free to <a href="mailto:theprogrammerdan@gma
     <summary><b>🧰 Miscellaneous things that I also use/code with</b></summary>
     <p>
         <a href="#"><img alt="Adobe" title="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
+        <a href="#"><img alt="Adobe Photoshop" title="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?logo=adobe%20photoshop&logoColor=white"></a>
         <a href="#"><img alt="Linux Mint" title="Linux Mint" src="https://img.shields.io/badge/Linux%20Mint-87CF3E.svg?logo=Linux%20Mint&logoColor=white"></a>
         <a href="#"><img alt="Vim" title="Vim" src="https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white"></a>
         <a href="#"><img alt="Visual Studio Code" title="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
@@ -199,7 +208,8 @@ If you want to get in contact, feel free to <a href="mailto:theprogrammerdan@gma
 <details>
 <summary><b>💻 GitHub Profile Stats</b></summary>
 </br>-->
-<div align="left"><a href="#"><img width="841" alt="Epicfisher's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Epicfisher&bg_color=011640&color=F2A766&line=F2CC85&point=FFFFFF&hide_border=true"/></a></div>
+<!--<div align="left"><a href="#"><img width="841" alt="Epicfisher's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Epicfisher&bg_color=011640&color=F2A766&line=F2CC85&point=FFFFFF&hide_border=true"/></a></div>-->
+<div align="left"><a href="#"><img width="841" alt="Epicfisher's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=Epicfisher&bg_color=011640&color=F2A766&line=F2CC85&point=FFFFFF&hide_border=true"/></a></div>
 <!--<div style="display: flex; flex-direction: row;">-->
 <center><a href="#"><img height="180px" alt="Epicfisher's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Epicfisher&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=011640&title_color=F2A766&icon_color=F2CC85"/></a>
 <a href="#"><img height="180px" alt="Epicfisher's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Epicfisher&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=011640&title_color=F2A766&icon_color=F2CC85&hide=Jupyter%20Notebook"/></a></center>

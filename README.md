@@ -103,7 +103,7 @@ If you want to get in contact, feel free to <a href="mailto:theprogrammerdan@gma
     <summary><b>📌📘 Heroku</b></summary>
     <p>
         <details open>
-            <summary><b>    📌📕 Heroku Projects</b></summary>
+            <summary><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📌📕 Heroku Projects</b></summary>
             <p>
                 <a href="https://github.com/Epicfisher/heroku-minecraft-server"><img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=heroku-minecraft-server&theme=react&bg_color=011640&title_color=F2A766&icon_color=F2CC85&hide_border=true&show_icons=true"></a>
                 <a href="https://github.com/Epicfisher/heroku-srb2kart-server"><img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=heroku-srb2kart-server&theme=react&bg_color=011640&title_color=F2A766&icon_color=F2CC85&hide_border=true&show_icons=true"></a>
@@ -111,7 +111,7 @@ If you want to get in contact, feel free to <a href="mailto:theprogrammerdan@gma
             </p>
         </details>
         <details open>
-            <summary><b>📌📕 Heroku Buildpacks</b></summary>
+            <summary><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📌📕 Heroku Buildpacks</b></summary>
             <p>
                 <a href="https://github.com/Epicfisher/heroku-buildpack-minecraft"><img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=heroku-buildpack-minecraft&theme=react&bg_color=011640&title_color=F2A766&icon_color=F2CC85&hide_border=true&show_icons=true"></a>
                 <a href="https://github.com/Epicfisher/heroku-buildpack-mono-6.12.0.122"><img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=heroku-buildpack-mono-6.12.0.122&theme=react&bg_color=011640&title_color=F2A766&icon_color=F2CC85&hide_border=true&show_icons=true"></a>

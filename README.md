@@ -66,19 +66,29 @@ If you want to get in contact, feel free to <a href="mailto:theprogrammerdan@gma
 <div id="projects"></div>
 
 <details open>
-    <summary><b>📌📕 Independent Projects</b></summary>
+    <summary><b>📌📘 Independent Projects</b></summary>
     <p>
-        <a href="https://github.com/Epicfisher/TouhouDiscordBot"><img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=TouhouDiscordBot&theme=react&bg_color=011640&title_color=F2A766&icon_color=F2CC85&hide_border=true&show_icons=true"></a>
-        <a href="https://github.com/Epicfisher/touhou-wiki-arrange-parser"><img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=touhou-wiki-arrange-parser&theme=react&bg_color=011640&title_color=F2A766&icon_color=F2CC85&hide_border=true&show_icons=true"></a>
-        <a href="https://github.com/Epicfisher/touhoudex-parser"><img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=touhoudex-parser&theme=react&bg_color=011640&title_color=F2A766&icon_color=F2CC85&hide_border=true&show_icons=true"></a>
-        <a href="https://github.com/Epicfisher/touhou-cafe-radio"><img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=touhou-cafe-radio&theme=react&bg_color=011640&title_color=F2A766&icon_color=F2CC85&hide_border=true&show_icons=true"></a>
-        <a href="https://github.com/Epicfisher/nesfish"><img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=nesfish&theme=react&bg_color=011640&title_color=F2A766&icon_color=F2CC85&hide_border=true&show_icons=true"></a>
-        <a href="https://github.com/Epicfisher/kobold-api"><img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=kobold-api&theme=react&bg_color=011640&title_color=F2A766&icon_color=F2CC85&hide_border=true&show_icons=true"></a>
+        <details open>
+            <summary><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📌📕 Touhou Projects</b></summary>
+            <p>
+                <a href="https://github.com/Epicfisher/TouhouDiscordBot"><img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=TouhouDiscordBot&theme=react&bg_color=011640&title_color=F2A766&icon_color=F2CC85&hide_border=true&show_icons=true"></a>
+                <a href="https://github.com/Epicfisher/touhou-wiki-arrange-parser"><img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=touhou-wiki-arrange-parser&theme=react&bg_color=011640&title_color=F2A766&icon_color=F2CC85&hide_border=true&show_icons=true"></a>
+                <a href="https://github.com/Epicfisher/touhoudex-parser"><img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=touhoudex-parser&theme=react&bg_color=011640&title_color=F2A766&icon_color=F2CC85&hide_border=true&show_icons=true"></a>
+                <a href="https://github.com/Epicfisher/touhou-cafe-radio"><img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=touhou-cafe-radio&theme=react&bg_color=011640&title_color=F2A766&icon_color=F2CC85&hide_border=true&show_icons=true"></a>
+            </p>
+        </details>
+        <details open>
+            <summary><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📌📕 Independent Projects</b></summary>
+            <p>
+                <a href="https://github.com/Epicfisher/kobold-api"><img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=kobold-api&theme=react&bg_color=011640&title_color=F2A766&icon_color=F2CC85&hide_border=true&show_icons=true"></a>
+                <a href="https://github.com/Epicfisher/nesfish"><img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=nesfish&theme=react&bg_color=011640&title_color=F2A766&icon_color=F2CC85&hide_border=true&show_icons=true"></a>
+            </p>
+        </details>
     </p>
 </details>
 
 <details open>
-    <summary><b>📌📕 Forked Projects</b></summary>
+    <summary><b>📌📘 Forked Projects</b></summary>
     <p>
         <a href="https://github.com/Epicfisher/radegast-command-line"><img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=radegast-command-line&theme=react&bg_color=011640&title_color=F2A766&icon_color=F2CC85&hide_border=true&show_icons=true"></a>
         <a href="https://github.com/Epicfisher/reddit-rss-bot"><img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=reddit-rss-bot&theme=react&bg_color=011640&title_color=F2A766&icon_color=F2CC85&hide_border=true&show_icons=true"></a>
@@ -86,7 +96,7 @@ If you want to get in contact, feel free to <a href="mailto:theprogrammerdan@gma
 </details>
 
 <details open>
-    <summary><b>📌📕 Contributed-to Projects</b></summary>
+    <summary><b>📌📘 Contributed-to Projects</b></summary>
     <p>
     </p>
 </details>
@@ -100,7 +110,7 @@ If you want to get in contact, feel free to <a href="mailto:theprogrammerdan@gma
 </details>-->
 
 <details open>
-    <summary><b>📌📘 Heroku</b></summary>
+    <summary><b>📌📘 Heroku Projects</b></summary>
     <p>
         <details open>
             <summary><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📌📕 Heroku Projects</b></summary>
@@ -122,7 +132,7 @@ If you want to get in contact, feel free to <a href="mailto:theprogrammerdan@gma
 </details>
 
 <details>
-    <summary><b>📕 Game Mods</b></summary>
+    <summary><b>📘 Game Mods</b></summary>
     <p>
         <a href="https://github.com/Epicfisher/x8-buildsounds"><img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Epicfisher&repo=x8-buildsounds&theme=react&bg_color=011640&title_color=F2A766&icon_color=F2CC85&hide_border=true&show_icons=true"></a>
     </p>
